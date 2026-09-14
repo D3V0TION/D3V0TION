@@ -2,7 +2,7 @@
 <img width="1851" height="1180" alt="tumblr_a825f160c46abfa8cb34d286364df741_295101b7_2048" src="https://github.com/user-attachments/assets/4f2ea499-1997-451e-944c-9900417327db" />
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uxualmjvjsb7d7n5fvbnnmjnf4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=6d896c&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uxualmjvjsb7d7n5fvbnnmjnf4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=1f57db&bar_color_cover=true&mode=dark">
     
    <p align="center"> 
      $\color{#0000ff}\textsf{Please don't close the door. Just let me talk and I'll leave. I promise. }$ 
