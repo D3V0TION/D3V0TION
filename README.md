@@ -21,6 +21,11 @@
     @Pony town awards
     <div align= "center">
    <img width="283" height="38" alt="1" src="https://github.com/user-attachments/assets/9191babf-50ca-48ce-bdfa-87195d0e2fc8" />
+   <div align= "center">
+   @daggerstruckmage
+   <div align= "center">
+   <img width="257" height="43" alt="3" src="https://github.com/user-attachments/assets/2c7a5ed0-a22f-415a-9727-2db38b9df96f" />
+
 
 </details>
 <p align="center">
