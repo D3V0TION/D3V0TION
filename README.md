@@ -27,10 +27,7 @@
    <img width="257" height="43" alt="3" src="https://github.com/user-attachments/assets/2c7a5ed0-a22f-415a-9727-2db38b9df96f" />
 
 
-</details>
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uxualmjvjsb7d7n5fvbnnmjnf4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=1f57db&bar_color_cover=true&mode=dark">
+
 
  
 
