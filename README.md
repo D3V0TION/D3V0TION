@@ -29,6 +29,12 @@
    @THE-TEMPIST
    <div align= "center">
    <img width="445" height="24" alt="4" src="https://github.com/user-attachments/assets/de8e1c60-7a2e-4db3-84a9-0c0a2106309c" />
+   <div align= "center">
+   @pt-everypony
+   <div align= "center">
+   <img width="325" height="31" alt="5" src="https://github.com/user-attachments/assets/75fba486-d86a-44c1-ae4c-63d8ca773452" />
+
+   
 
 
 
