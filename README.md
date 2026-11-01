@@ -33,6 +33,12 @@
    @pt-everypony
    <div align= "center">
    <img width="325" height="31" alt="5" src="https://github.com/user-attachments/assets/75fba486-d86a-44c1-ae4c-63d8ca773452" />
+   <div align= "center">
+   @bug-town
+   <div align= "center">
+   <img width="258" height="31" alt="6" src="https://github.com/user-attachments/assets/24c4ca2b-4c61-4a17-9bcc-485f8a1419a7" />
+
+
 
    
 
